@@ -6,11 +6,7 @@
 This stage of my application displays a question and three possible choices. If the user selects the wrong answer, the selection turns red. If they selest the correct answer, the selection turns green. To reset the answer choices, the user must tap on the question. The eye icon on the bottom of the screen makes the answer choices disappear.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://g.recordit.co/qGq3ps82cx.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] Create New Project in Android Studio
