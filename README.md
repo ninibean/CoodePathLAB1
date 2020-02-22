@@ -1,11 +1,9 @@
 ### Flashcard App 
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
-
 ## Lab 1
 
 ### App Description
-`TODO://` This stage of my application displays a question and three possible choices. If the user selects the wrong answer, the selection turns red. If they selest the correct answer, the selection turns green. To reset the answer choices, the user must tap on the question. The eye icon on the bottom of the screen makes the answer choices disappear.
+This stage of my application displays a question and three possible choices. If the user selects the wrong answer, the selection turns red. If they selest the correct answer, the selection turns green. To reset the answer choices, the user must tap on the question. The eye icon on the bottom of the screen makes the answer choices disappear.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
